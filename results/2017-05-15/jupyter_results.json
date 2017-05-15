@@ -1,0 +1,4870 @@
+{
+  "lazycache": {
+    "gae": {
+      "uncached": {
+        "ci": {
+          "1_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 13574,
+                "msecs": 2791.7613983154297
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 11684,
+                "msecs": 3282.2043895721436
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 21922,
+                "msecs": 2640.5630111694336
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6479,
+                "msecs": 2762.2714042663574
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 17274,
+                "msecs": 2811.9957447052
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 5655,
+                "msecs": 2662.2204780578613
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 244,
+                "msecs": 370.52249908447266
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21939,
+                "msecs": 2576.7860412597656
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 10427,
+                "msecs": 2534.388780593872
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 14922,
+                "msecs": 2548.8312244415283
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 11887,
+                "msecs": 2920.928478240967
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20194,
+                "msecs": 2472.074270248413
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 20015,
+                "msecs": 2563.103199005127
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14014,
+                "msecs": 2467.0250415802
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18246,
+                "msecs": 2649.465560913086
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2452,
+                "msecs": 2883.1357955932617
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 15369,
+                "msecs": 2970.956325531006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17607,
+                "msecs": 2793.015241622925
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 23956,
+                "msecs": 2586.6737365722656
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 5422,
+                "msecs": 2568.7122344970703
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14146,
+                "msecs": 2930.788278579712
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 17090,
+                "msecs": 2722.1155166625977
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17368,
+                "msecs": 2629.2929649353027
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 1481,
+                "msecs": 2971.151113510132
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 10682,
+                "msecs": 2917.106866836548
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 20238,
+                "msecs": 2661.801815032959
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 14625,
+                "msecs": 2956.7627906799316
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 4420,
+                "msecs": 3381.2482357025146
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 157,
+                "msecs": 367.1445846557617
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 8277,
+                "msecs": 2927.281379699707
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 15514,
+                "msecs": 2540.8828258514404
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 8923,
+                "msecs": 2759.5510482788086
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7741,
+                "msecs": 2445.058822631836
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 22937,
+                "msecs": 2749.7384548187256
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24473,
+                "msecs": 3987.3178005218506
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 4676,
+                "msecs": 2543.2260036468506
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 21782,
+                "msecs": 2557.021379470825
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 59,
+                "msecs": 381.1612129211426
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23516,
+                "msecs": 2643.4624195098877
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 16986,
+                "msecs": 2685.1212978363037
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10327,
+                "msecs": 2555.929183959961
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 22884,
+                "msecs": 2917.5875186920166
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 2368,
+                "msecs": 2704.606771469116
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 22628,
+                "msecs": 2766.597032546997
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 6743,
+                "msecs": 2971.2324142456055
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 3369,
+                "msecs": 2701.1070251464844
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 889,
+                "msecs": 2442.0528411865234
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23125,
+                "msecs": 2413.3787155151367
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 12111,
+                "msecs": 3202.090263366699
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22789,
+                "msecs": 2534.992218017578
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 4380,
+                "msecs": 2807.063341140747
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22912,
+                "msecs": 2922.9605197906494
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22123,
+                "msecs": 2967.924118041992
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 11030,
+                "msecs": 2834.2742919921875
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 19419,
+                "msecs": 2895.144462585449
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 15147,
+                "msecs": 2812.082529067993
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 17041,
+                "msecs": 2866.025447845459
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 20787,
+                "msecs": 3269.293785095215
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 54,
+                "msecs": 375.74052810668945
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2130,
+                "msecs": 2467.319965362549
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 19720,
+                "msecs": 2593.956232070923
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 22515,
+                "msecs": 2568.5272216796875
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 20812,
+                "msecs": 3017.3890590667725
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3187,
+                "msecs": 2785.327911376953
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6886,
+                "msecs": 2917.8237915039062
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20408,
+                "msecs": 2506.5510272979736
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 16128,
+                "msecs": 2665.447950363159
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2364,
+                "msecs": 3355.1037311553955
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 10087,
+                "msecs": 2795.3553199768066
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 4262,
+                "msecs": 2662.8825664520264
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 12292,
+                "msecs": 3032.8452587127686
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 4993,
+                "msecs": 2676.4068603515625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 24010,
+                "msecs": 2569.110870361328
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 13207,
+                "msecs": 2759.3154907226562
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21110,
+                "msecs": 2609.5476150512695
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 12870,
+                "msecs": 4846.744537353516
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 4265,
+                "msecs": 3913.8152599334717
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20023,
+                "msecs": 2485.5053424835205
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 16021,
+                "msecs": 2624.5462894439697
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 2042,
+                "msecs": 2768.134355545044
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 13588,
+                "msecs": 2801.4328479766846
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7183,
+                "msecs": 3431.7004680633545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10452,
+                "msecs": 2276.423454284668
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 15018,
+                "msecs": 2549.5665073394775
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 21465,
+                "msecs": 3469.8939323425293
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2194,
+                "msecs": 2426.5217781066895
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 15885,
+                "msecs": 2287.937641143799
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23832,
+                "msecs": 2490.9298419952393
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 23383,
+                "msecs": 2858.80184173584
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21587,
+                "msecs": 2463.501453399658
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20292,
+                "msecs": 3354.310989379883
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 15938,
+                "msecs": 2556.424140930176
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14633,
+                "msecs": 2432.2633743286133
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 4577,
+                "msecs": 2754.6117305755615
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 9174,
+                "msecs": 2578.9074897766113
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18914,
+                "msecs": 2462.594985961914
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23958,
+                "msecs": 2331.228733062744
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7165,
+                "msecs": 2866.6155338287354
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 13498,
+                "msecs": 3241.116523742676
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 17471,
+                "msecs": 2714.5259380340576
+              }
+            ],
+            "nthreads": 1,
+            "total_msec": 269629.7996044159,
+            "seed": 37114
+          },
+          "2_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21100,
+                "msecs": 2813.267230987549
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7857,
+                "msecs": 3763.4754180908203
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 16225,
+                "msecs": 3981.0032844543457
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 10918,
+                "msecs": 3896.3027000427246
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 3948,
+                "msecs": 4018.93949508667
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20270,
+                "msecs": 2317.0166015625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7854,
+                "msecs": 3936.941623687744
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21304,
+                "msecs": 2426.398277282715
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 23572,
+                "msecs": 2704.2250633239746
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 23706,
+                "msecs": 3791.8949127197266
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 11051,
+                "msecs": 2864.659309387207
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2797,
+                "msecs": 2776.9360542297363
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15057,
+                "msecs": 2898.594379425049
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6651,
+                "msecs": 3384.882926940918
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 16181,
+                "msecs": 2306.1766624450684
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 11582,
+                "msecs": 3050.8415699005127
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 22245,
+                "msecs": 2704.74910736084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 10724,
+                "msecs": 2982.208251953125
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14934,
+                "msecs": 3025.7279872894287
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16886,
+                "msecs": 2596.2982177734375
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 16323,
+                "msecs": 3004.7717094421387
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17724,
+                "msecs": 3390.176296234131
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 14303,
+                "msecs": 2948.01926612854
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14597,
+                "msecs": 3168.5237884521484
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 9509,
+                "msecs": 2790.947198867798
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21544,
+                "msecs": 2675.1785278320312
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 4814,
+                "msecs": 3041.30220413208
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 2362,
+                "msecs": 2912.2467041015625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 3991,
+                "msecs": 3225.362777709961
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 23403,
+                "msecs": 2517.8282260894775
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10400,
+                "msecs": 2805.9074878692627
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13552,
+                "msecs": 2762.3910903930664
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 11077,
+                "msecs": 3150.601625442505
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 19986,
+                "msecs": 2572.523593902588
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8428,
+                "msecs": 3272.320032119751
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6629,
+                "msecs": 2778.5518169403076
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22716,
+                "msecs": 3566.5769577026367
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 22696,
+                "msecs": 2529.7696590423584
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20144,
+                "msecs": 2662.3024940490723
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 20049,
+                "msecs": 2385.4403495788574
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9672,
+                "msecs": 3049.8206615448
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7275,
+                "msecs": 2747.3955154418945
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2172,
+                "msecs": 3491.5854930877686
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 22371,
+                "msecs": 2376.6133785247803
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 17567,
+                "msecs": 3366.809129714966
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 4813,
+                "msecs": 2600.05521774292
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 4339,
+                "msecs": 2594.8495864868164
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 24277,
+                "msecs": 2410.6526374816895
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 192,
+                "msecs": 396.08192443847656
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7784,
+                "msecs": 2466.707229614258
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23884,
+                "msecs": 2640.4922008514404
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 377,
+                "msecs": 373.11649322509766
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 22148,
+                "msecs": 2554.755449295044
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 5127,
+                "msecs": 2931.9489002227783
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 13798,
+                "msecs": 2733.7749004364014
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 14640,
+                "msecs": 2591.059446334839
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 7048,
+                "msecs": 3700.450897216797
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 2178,
+                "msecs": 2480.2989959716797
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6502,
+                "msecs": 2733.410596847534
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 2507,
+                "msecs": 3226.020097732544
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8024,
+                "msecs": 2756.3211917877197
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 13358,
+                "msecs": 2705.5704593658447
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 22330,
+                "msecs": 2644.681692123413
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 24183,
+                "msecs": 2990.964651107788
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20812,
+                "msecs": 3589.4601345062256
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13363,
+                "msecs": 2234.832763671875
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 14046,
+                "msecs": 2396.328926086426
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 24370,
+                "msecs": 2961.3842964172363
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 6922,
+                "msecs": 2902.5723934173584
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 15110,
+                "msecs": 2745.0547218322754
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10528,
+                "msecs": 3901.5161991119385
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 19790,
+                "msecs": 2660.5732440948486
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 24166,
+                "msecs": 2547.8622913360596
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17456,
+                "msecs": 3379.359483718872
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18132,
+                "msecs": 2743.8673973083496
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 13362,
+                "msecs": 3364.3341064453125
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 592,
+                "msecs": 2658.8656902313232
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22467,
+                "msecs": 2378.236770629883
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7622,
+                "msecs": 2746.9964027404785
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 11454,
+                "msecs": 2919.84224319458
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7764,
+                "msecs": 2431.0779571533203
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 11113,
+                "msecs": 4179.236888885498
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 17666,
+                "msecs": 3017.329454421997
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 14878,
+                "msecs": 2371.9863891601562
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 22642,
+                "msecs": 2485.1815700531006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 737,
+                "msecs": 2445.8110332489014
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 3169,
+                "msecs": 2613.2912635803223
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22047,
+                "msecs": 2463.3946418762207
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15221,
+                "msecs": 3482.496500015259
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20821,
+                "msecs": 3024.322986602783
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15016,
+                "msecs": 2359.7912788391113
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 9365,
+                "msecs": 2670.642852783203
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 1864,
+                "msecs": 2419.0616607666016
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 3195,
+                "msecs": 3495.7098960876465
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20023,
+                "msecs": 2781.521797180176
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 3036,
+                "msecs": 2813.544511795044
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 21472,
+                "msecs": 3288.371801376343
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8058,
+                "msecs": 3569.4048404693604
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20281,
+                "msecs": 2543.5092449188232
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9422,
+                "msecs": 3427.3579120635986
+              }
+            ],
+            "nthreads": 2,
+            "total_msec": 143725.34823417664,
+            "seed": 37116
+          },
+          "4_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6439,
+                "msecs": 4076.887607574463
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 9401,
+                "msecs": 3791.0473346710205
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14783,
+                "msecs": 4128.4215450286865
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 16863,
+                "msecs": 3320.3251361846924
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 931,
+                "msecs": 2295.319080352783
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24655,
+                "msecs": 376.7225742340088
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23042,
+                "msecs": 2496.7243671417236
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 15449,
+                "msecs": 4660.634756088257
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 14695,
+                "msecs": 2525.7081985473633
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 11275,
+                "msecs": 3067.748785018921
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17467,
+                "msecs": 2761.9566917419434
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23628,
+                "msecs": 4418.110132217407
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 11485,
+                "msecs": 2776.3726711273193
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 13497,
+                "msecs": 2507.1253776550293
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 5873,
+                "msecs": 2840.7063484191895
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18602,
+                "msecs": 3242.7818775177
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14159,
+                "msecs": 2934.4775676727295
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20957,
+                "msecs": 3035.722017288208
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 17811,
+                "msecs": 2871.7894554138184
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 19812,
+                "msecs": 3743.098258972168
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18045,
+                "msecs": 2609.382152557373
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 7907,
+                "msecs": 3283.255100250244
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 12209,
+                "msecs": 2881.126880645752
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14139,
+                "msecs": 2952.423572540283
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 18583,
+                "msecs": 3576.5771865844727
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23530,
+                "msecs": 2478.7356853485107
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22662,
+                "msecs": 2556.260347366333
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 5502,
+                "msecs": 2688.361883163452
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 24007,
+                "msecs": 3005.0392150878906
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 24777,
+                "msecs": 530.381441116333
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 21933,
+                "msecs": 2623.0995655059814
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 10869,
+                "msecs": 3639.3277645111084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 17385,
+                "msecs": 3403.817653656006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14453,
+                "msecs": 3572.24702835083
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8539,
+                "msecs": 3360.548257827759
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 614,
+                "msecs": 2992.764472961426
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 23890,
+                "msecs": 3078.2532691955566
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 14324,
+                "msecs": 3509.688377380371
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16909,
+                "msecs": 3711.228132247925
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 8736,
+                "msecs": 2666.9771671295166
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 24479,
+                "msecs": 4094.2723751068115
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 5682,
+                "msecs": 4220.982074737549
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 11968,
+                "msecs": 2588.6518955230713
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 20391,
+                "msecs": 3324.354887008667
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 3072,
+                "msecs": 2592.8516387939453
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24317,
+                "msecs": 4189.312696456909
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 10674,
+                "msecs": 3105.499505996704
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 4676,
+                "msecs": 2684.4990253448486
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12696,
+                "msecs": 2933.9301586151123
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7948,
+                "msecs": 2738.5575771331787
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 13415,
+                "msecs": 3158.825159072876
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 21673,
+                "msecs": 2420.948266983032
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 7732,
+                "msecs": 3038.5689735412598
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18267,
+                "msecs": 2611.929416656494
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 14427,
+                "msecs": 3478.173017501831
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 21389,
+                "msecs": 2759.995937347412
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 3105,
+                "msecs": 2478.7280559539795
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 19593,
+                "msecs": 2339.8520946502686
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6055,
+                "msecs": 4167.6671504974365
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20792,
+                "msecs": 2836.027145385742
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 3968,
+                "msecs": 3303.3666610717773
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 18612,
+                "msecs": 4135.425567626953
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 8989,
+                "msecs": 2806.3104152679443
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 2150,
+                "msecs": 2649.742364883423
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 1285,
+                "msecs": 2383.538007736206
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 8001,
+                "msecs": 2743.1981563568115
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12054,
+                "msecs": 3257.158041000366
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7297,
+                "msecs": 3961.9812965393066
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20757,
+                "msecs": 3481.226682662964
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 17262,
+                "msecs": 2902.782201766968
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 4456,
+                "msecs": 4384.493112564087
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14015,
+                "msecs": 2640.3636932373047
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 10211,
+                "msecs": 4585.254192352295
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10009,
+                "msecs": 4734.635353088379
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 8151,
+                "msecs": 2661.5235805511475
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 11518,
+                "msecs": 4434.69500541687
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9627,
+                "msecs": 2978.806734085083
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 157,
+                "msecs": 380.28955459594727
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 16862,
+                "msecs": 2820.3279972076416
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 24403,
+                "msecs": 2435.476779937744
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 2290,
+                "msecs": 2976.7191410064697
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 8406,
+                "msecs": 2820.669412612915
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 18015,
+                "msecs": 3980.7426929473877
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 9937,
+                "msecs": 4328.423738479614
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 6004,
+                "msecs": 4172.432422637939
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 1717,
+                "msecs": 2475.7120609283447
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15865,
+                "msecs": 2665.0407314300537
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7225,
+                "msecs": 2405.1592350006104
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 23652,
+                "msecs": 3263.7972831726074
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 16915,
+                "msecs": 2671.332359313965
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 9339,
+                "msecs": 3362.417459487915
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 3574,
+                "msecs": 2734.6017360687256
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10831,
+                "msecs": 3483.5917949676514
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 17386,
+                "msecs": 2649.8329639434814
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 10399,
+                "msecs": 2473.2725620269775
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17618,
+                "msecs": 4009.8655223846436
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 1989,
+                "msecs": 3625.0598430633545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 20840,
+                "msecs": 3885.688066482544
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 11081,
+                "msecs": 3627.732038497925
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 1770,
+                "msecs": 2462.320327758789
+              }
+            ],
+            "nthreads": 4,
+            "total_msec": 78443.31955909729,
+            "seed": 37120
+          },
+          "8_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 1346,
+                "msecs": 4658.786773681641
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21062,
+                "msecs": 2353.8670539855957
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 1529,
+                "msecs": 3467.5846099853516
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23603,
+                "msecs": 2826.047658920288
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 24276,
+                "msecs": 4724.071979522705
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 1515,
+                "msecs": 4730.057954788208
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 16471,
+                "msecs": 3142.8396701812744
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21233,
+                "msecs": 2742.375612258911
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 18811,
+                "msecs": 3495.664358139038
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 11561,
+                "msecs": 3320.3020095825195
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 4249,
+                "msecs": 2691.8749809265137
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23092,
+                "msecs": 4440.221548080444
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 8622,
+                "msecs": 5824.4006633758545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24237,
+                "msecs": 4766.823530197144
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17972,
+                "msecs": 3772.596836090088
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24044,
+                "msecs": 4411.489009857178
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 24499,
+                "msecs": 6824.100971221924
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 3455,
+                "msecs": 2886.2435817718506
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 4590,
+                "msecs": 4856.9700717926025
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 5359,
+                "msecs": 4523.2884883880615
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20390,
+                "msecs": 5153.261423110962
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 3471,
+                "msecs": 4070.4119205474854
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21794,
+                "msecs": 4606.092214584351
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15511,
+                "msecs": 3734.8859310150146
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18307,
+                "msecs": 2571.0816383361816
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 12882,
+                "msecs": 5171.308755874634
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18031,
+                "msecs": 3130.392551422119
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 11802,
+                "msecs": 4127.610445022583
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 16348,
+                "msecs": 3539.8430824279785
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 794,
+                "msecs": 3989.8524284362793
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 13001,
+                "msecs": 3939.591884613037
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 7918,
+                "msecs": 4893.585681915283
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 10210,
+                "msecs": 4826.091289520264
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 9954,
+                "msecs": 4610.414505004883
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23592,
+                "msecs": 3449.7647285461426
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 14303,
+                "msecs": 4875.173091888428
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 2941,
+                "msecs": 2605.3037643432617
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 13949,
+                "msecs": 3628.86905670166
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20318,
+                "msecs": 4784.531354904175
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 850,
+                "msecs": 5401.548862457275
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 7027,
+                "msecs": 2775.4275798797607
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 9051,
+                "msecs": 4239.351034164429
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23143,
+                "msecs": 2594.5687294006348
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6239,
+                "msecs": 5721.9507694244385
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21699,
+                "msecs": 3143.659830093384
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 16329,
+                "msecs": 6204.44655418396
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 19518,
+                "msecs": 4638.805389404297
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 10021,
+                "msecs": 3672.828435897827
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 14638,
+                "msecs": 4800.882816314697
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 1396,
+                "msecs": 2674.6060848236084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18950,
+                "msecs": 3733.459949493408
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24477,
+                "msecs": 7191.612005233765
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6236,
+                "msecs": 5133.813142776489
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18267,
+                "msecs": 2751.206159591675
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 16574,
+                "msecs": 5621.005296707153
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23376,
+                "msecs": 5090.300559997559
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18698,
+                "msecs": 5296.439409255981
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 23314,
+                "msecs": 3590.524673461914
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 8644,
+                "msecs": 5167.526721954346
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2220,
+                "msecs": 5057.247877120972
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 6157,
+                "msecs": 6205.069303512573
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 900,
+                "msecs": 3919.8222160339355
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6433,
+                "msecs": 5546.015024185181
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15806,
+                "msecs": 5706.513404846191
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 11972,
+                "msecs": 3334.625244140625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16680,
+                "msecs": 5272.70245552063
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 20047,
+                "msecs": 2663.9530658721924
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 19090,
+                "msecs": 4557.382106781006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21640,
+                "msecs": 4811.328172683716
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7512,
+                "msecs": 5029.426574707031
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3433,
+                "msecs": 2945.1749324798584
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 19364,
+                "msecs": 3127.3369789123535
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 10996,
+                "msecs": 3430.793285369873
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13594,
+                "msecs": 3800.0612258911133
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 3193,
+                "msecs": 6356.330871582031
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 9785,
+                "msecs": 3831.244945526123
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 8302,
+                "msecs": 2947.2899436950684
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17020,
+                "msecs": 3229.231119155884
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 8876,
+                "msecs": 6007.835865020752
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15473,
+                "msecs": 3560.537576675415
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 11524,
+                "msecs": 4896.435260772705
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21382,
+                "msecs": 4752.881050109863
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 19154,
+                "msecs": 4320.316791534424
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 13148,
+                "msecs": 4988.728046417236
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 13552,
+                "msecs": 3621.951103210449
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 21179,
+                "msecs": 4643.32914352417
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 19332,
+                "msecs": 2917.879819869995
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16663,
+                "msecs": 4466.605424880981
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 24642,
+                "msecs": 1010.5319023132324
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 17337,
+                "msecs": 2813.0903244018555
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 24431,
+                "msecs": 2980.2298545837402
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 1813,
+                "msecs": 3474.069356918335
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 10796,
+                "msecs": 5364.6838665008545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 7877,
+                "msecs": 5836.031675338745
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20009,
+                "msecs": 2393.425464630127
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 4359,
+                "msecs": 3562.2634887695312
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 23409,
+                "msecs": 3573.245048522949
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 24612,
+                "msecs": 6047.30486869812
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18347,
+                "msecs": 2511.2524032592773
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2797,
+                "msecs": 5505.5882930755615
+              }
+            ],
+            "nthreads": 8,
+            "total_msec": 53795.36437988281,
+            "seed": 37128
+          }
+        }
+      },
+      "cached": {
+        "ci": {
+          "1_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 6995,
+                "msecs": 1718.5955047607422
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 12054,
+                "msecs": 1566.8928623199463
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 24539,
+                "msecs": 468.0619239807129
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 9950,
+                "msecs": 1622.0650672912598
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2896,
+                "msecs": 1564.9611949920654
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15269,
+                "msecs": 1466.1834239959717
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 12790,
+                "msecs": 1644.906997680664
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 22775,
+                "msecs": 1668.0855751037598
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18332,
+                "msecs": 1341.8519496917725
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 1308,
+                "msecs": 1520.4813480377197
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 2956,
+                "msecs": 2667.7165031433105
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14291,
+                "msecs": 1529.7281742095947
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7661,
+                "msecs": 1659.712314605713
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 15324,
+                "msecs": 1502.9003620147705
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 7038,
+                "msecs": 1713.6602401733398
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9239,
+                "msecs": 1822.1936225891113
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 5857,
+                "msecs": 1709.3217372894287
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14553,
+                "msecs": 1337.1224403381348
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 12852,
+                "msecs": 1441.0715103149414
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 2436,
+                "msecs": 1649.9624252319336
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 1400,
+                "msecs": 1593.1978225708008
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23620,
+                "msecs": 1399.5048999786377
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9355,
+                "msecs": 1727.6804447174072
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 19732,
+                "msecs": 1593.2693481445312
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 13836,
+                "msecs": 1483.7760925292969
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 12704,
+                "msecs": 2147.5605964660645
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 7693,
+                "msecs": 1517.2162055969238
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 3179,
+                "msecs": 1546.6349124908447
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 667,
+                "msecs": 1966.4266109466553
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 230,
+                "msecs": 641.5765285491943
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9641,
+                "msecs": 1785.1943969726562
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 5587,
+                "msecs": 1634.7935199737549
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 6909,
+                "msecs": 1559.9949359893799
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22267,
+                "msecs": 1934.1521263122559
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 24469,
+                "msecs": 1717.5686359405518
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9319,
+                "msecs": 1441.157341003418
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6135,
+                "msecs": 1560.875415802002
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14596,
+                "msecs": 1767.2333717346191
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 24312,
+                "msecs": 1402.916669845581
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20755,
+                "msecs": 1575.7455825805664
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 8690,
+                "msecs": 1800.2123832702637
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 19298,
+                "msecs": 1416.1553382873535
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 7421,
+                "msecs": 1858.5352897644043
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9532,
+                "msecs": 1700.9916305541992
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 5920,
+                "msecs": 2707.7724933624268
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21430,
+                "msecs": 1746.8180656433105
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 17379,
+                "msecs": 1619.20166015625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10585,
+                "msecs": 1585.913896560669
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 18921,
+                "msecs": 2367.7289485931396
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 11251,
+                "msecs": 1801.94091796875
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6265,
+                "msecs": 2285.463571548462
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24550,
+                "msecs": 1452.8367519378662
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 13813,
+                "msecs": 1467.9951667785645
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21055,
+                "msecs": 2310.4002475738525
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21467,
+                "msecs": 1586.787223815918
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 23943,
+                "msecs": 1737.2329235076904
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 23568,
+                "msecs": 1598.757028579712
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18851,
+                "msecs": 1521.655797958374
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23587,
+                "msecs": 1360.156774520874
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 14983,
+                "msecs": 1643.9917087554932
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 12842,
+                "msecs": 1497.581958770752
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 547,
+                "msecs": 468.26887130737305
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10821,
+                "msecs": 2578.812599182129
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15720,
+                "msecs": 1568.4363842010498
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 22097,
+                "msecs": 1670.8180904388428
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 14815,
+                "msecs": 1570.0719356536865
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24746,
+                "msecs": 313.9834403991699
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9528,
+                "msecs": 1788.2928848266602
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 2394,
+                "msecs": 1578.537940979004
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18693,
+                "msecs": 1399.9953269958496
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 14960,
+                "msecs": 1586.1225128173828
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3694,
+                "msecs": 2336.156129837036
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7016,
+                "msecs": 2004.4639110565186
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 19643,
+                "msecs": 1618.5698509216309
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 16748,
+                "msecs": 2600.247859954834
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20769,
+                "msecs": 1371.6959953308105
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 524,
+                "msecs": 1320.51682472229
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 5545,
+                "msecs": 1501.1942386627197
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 9837,
+                "msecs": 1634.5245838165283
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 5785,
+                "msecs": 1512.8905773162842
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23767,
+                "msecs": 1334.6266746520996
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 6568,
+                "msecs": 1665.8809185028076
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 20968,
+                "msecs": 1794.907569885254
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14479,
+                "msecs": 1645.5793380737305
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2260,
+                "msecs": 3686.206340789795
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8358,
+                "msecs": 2545.5660820007324
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9264,
+                "msecs": 2482.7065467834473
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6356,
+                "msecs": 1518.1405544281006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 6226,
+                "msecs": 1773.9334106445312
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 13957,
+                "msecs": 2349.371910095215
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10169,
+                "msecs": 1916.1770343780518
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 18906,
+                "msecs": 2389.2900943756104
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 12360,
+                "msecs": 1637.7630233764648
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 11259,
+                "msecs": 2429.0108680725098
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 10688,
+                "msecs": 1642.5590515136719
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21141,
+                "msecs": 1421.9636917114258
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13078,
+                "msecs": 2138.167381286621
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 13119,
+                "msecs": 1548.1293201446533
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 17902,
+                "msecs": 1598.6778736114502
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 13829,
+                "msecs": 1612.8230094909668
+              }
+            ],
+            "nthreads": 1,
+            "total_msec": 170325.22130012512,
+            "seed": 30230
+          },
+          "2_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 13239,
+                "msecs": 3970.9274768829346
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 20302,
+                "msecs": 3371.7267513275146
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18774,
+                "msecs": 3764.1782760620117
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 18365,
+                "msecs": 5043.785333633423
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 14488,
+                "msecs": 3748.546838760376
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 23973,
+                "msecs": 3533.0893993377686
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 23333,
+                "msecs": 3398.759126663208
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23287,
+                "msecs": 3678.03955078125
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15514,
+                "msecs": 4110.951900482178
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23939,
+                "msecs": 3347.2189903259277
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 2248,
+                "msecs": 3975.358724594116
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18680,
+                "msecs": 4590.147972106934
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22430,
+                "msecs": 3475.2488136291504
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 8550,
+                "msecs": 3272.5465297698975
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 7382,
+                "msecs": 4059.314250946045
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 7802,
+                "msecs": 3857.4018478393555
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13334,
+                "msecs": 3364.8221492767334
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 4212,
+                "msecs": 3693.413496017456
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 4134,
+                "msecs": 3888.3562088012695
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 18475,
+                "msecs": 4186.259031295776
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 8985,
+                "msecs": 4084.850311279297
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6552,
+                "msecs": 4171.875238418579
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 2963,
+                "msecs": 3769.0610885620117
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 16524,
+                "msecs": 3565.849542617798
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9252,
+                "msecs": 4787.1692180633545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 4166,
+                "msecs": 3868.602752685547
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 3309,
+                "msecs": 3592.341661453247
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 1189,
+                "msecs": 3784.8846912384033
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22106,
+                "msecs": 4092.7491188049316
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 12361,
+                "msecs": 4001.477003097534
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 21837,
+                "msecs": 3416.7001247406006
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21141,
+                "msecs": 1558.4638118743896
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9515,
+                "msecs": 1642.4851417541504
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 21490,
+                "msecs": 4192.848920822144
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 9682,
+                "msecs": 3575.0572681427
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2401,
+                "msecs": 4076.450824737549
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 23372,
+                "msecs": 3717.0639038085938
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 11711,
+                "msecs": 3874.5479583740234
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 22690,
+                "msecs": 3925.7309436798096
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15348,
+                "msecs": 3776.606321334839
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 17821,
+                "msecs": 4181.522369384766
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 15510,
+                "msecs": 1882.2259902954102
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14794,
+                "msecs": 4478.0309200286865
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 6087,
+                "msecs": 3686.338186264038
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 6449,
+                "msecs": 3933.3951473236084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 2532,
+                "msecs": 3779.430150985718
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15225,
+                "msecs": 3546.2541580200195
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 21511,
+                "msecs": 3747.25341796875
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 19002,
+                "msecs": 3929.22306060791
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 6886,
+                "msecs": 4056.2682151794434
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 776,
+                "msecs": 3136.6961002349854
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18975,
+                "msecs": 1626.7337799072266
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 13557,
+                "msecs": 3875.3130435943604
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 17645,
+                "msecs": 3697.42488861084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 17769,
+                "msecs": 3573.563575744629
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15449,
+                "msecs": 4379.5435428619385
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 1414,
+                "msecs": 4743.50380897522
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8339,
+                "msecs": 4103.006601333618
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20992,
+                "msecs": 4396.2721824646
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 23565,
+                "msecs": 1636.3091468811035
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 6771,
+                "msecs": 4016.993999481201
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12619,
+                "msecs": 3787.5561714172363
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16951,
+                "msecs": 3818.4571266174316
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 12816,
+                "msecs": 4026.364326477051
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 2876,
+                "msecs": 3785.4764461517334
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 1269,
+                "msecs": 3216.203212738037
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 24549,
+                "msecs": 4956.582307815552
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6698,
+                "msecs": 4414.102554321289
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 18120,
+                "msecs": 1523.935317993164
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18951,
+                "msecs": 3500.8199214935303
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14757,
+                "msecs": 4060.7833862304688
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18212,
+                "msecs": 4111.364841461182
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 5091,
+                "msecs": 3817.1796798706055
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24245,
+                "msecs": 3813.547134399414
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 7486,
+                "msecs": 3674.03507232666
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24798,
+                "msecs": 1365.509271621704
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 23335,
+                "msecs": 3438.0877017974854
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 15164,
+                "msecs": 3637.9189491271973
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 8223,
+                "msecs": 3812.6933574676514
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22292,
+                "msecs": 4387.253284454346
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 16602,
+                "msecs": 3564.2335414886475
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22795,
+                "msecs": 3308.9816570281982
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 6137,
+                "msecs": 3871.321439743042
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 15951,
+                "msecs": 3802.481174468994
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 545,
+                "msecs": 395.18141746520996
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12747,
+                "msecs": 4030.5166244506836
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 4372,
+                "msecs": 3968.008518218994
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9595,
+                "msecs": 3587.4671936035156
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6761,
+                "msecs": 3914.0355587005615
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23213,
+                "msecs": 4127.700090408325
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 18102,
+                "msecs": 3815.4592514038086
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10354,
+                "msecs": 4109.850883483887
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 7229,
+                "msecs": 3693.5465335845947
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 6464,
+                "msecs": 4616.581201553345
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 12965,
+                "msecs": 3611.936569213867
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23786,
+                "msecs": 3504.2691230773926
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23716,
+                "msecs": 3143.3300971984863
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8153,
+                "msecs": 3687.366008758545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 22011,
+                "msecs": 4193.575859069824
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 13424,
+                "msecs": 3899.6729850769043
+              }
+            ],
+            "nthreads": 2,
+            "total_msec": 185742.45619773865,
+            "seed": 30232
+          },
+          "4_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 6571,
+                "msecs": 5444.052934646606
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21462,
+                "msecs": 4321.070909500122
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 5471,
+                "msecs": 4615.14139175415
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 23642,
+                "msecs": 3667.707681655884
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 17765,
+                "msecs": 5096.868515014648
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9384,
+                "msecs": 4523.590087890625
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 18040,
+                "msecs": 1723.219394683838
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 18600,
+                "msecs": 3816.256284713745
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 18997,
+                "msecs": 4878.1750202178955
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23272,
+                "msecs": 3874.65500831604
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 17316,
+                "msecs": 4176.47385597229
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 14823,
+                "msecs": 3892.774820327759
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 5732,
+                "msecs": 4211.003065109253
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20728,
+                "msecs": 4999.896049499512
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23796,
+                "msecs": 6369.567155838013
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 9726,
+                "msecs": 4571.404695510864
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 11014,
+                "msecs": 4715.007305145264
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23892,
+                "msecs": 4223.029375076294
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 303,
+                "msecs": 2254.408121109009
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 17406,
+                "msecs": 4637.773275375366
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 6823,
+                "msecs": 4516.306638717651
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21535,
+                "msecs": 4783.0469608306885
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 4494,
+                "msecs": 4411.634922027588
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 12582,
+                "msecs": 4768.211603164673
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 5255,
+                "msecs": 1480.827808380127
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 24055,
+                "msecs": 3460.202693939209
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 5359,
+                "msecs": 4283.323287963867
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3533,
+                "msecs": 3779.9761295318604
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 7995,
+                "msecs": 5231.570720672607
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 14610,
+                "msecs": 4601.451396942139
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 947,
+                "msecs": 4128.876447677612
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7831,
+                "msecs": 4854.049921035767
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 15048,
+                "msecs": 4582.950830459595
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 24126,
+                "msecs": 3792.985439300537
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 19239,
+                "msecs": 4740.872144699097
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21301,
+                "msecs": 3822.993278503418
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 9232,
+                "msecs": 4656.331539154053
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7864,
+                "msecs": 3990.858316421509
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2551,
+                "msecs": 3887.6328468322754
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 19859,
+                "msecs": 3998.685836791992
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 24798,
+                "msecs": 1525.1920223236084
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21851,
+                "msecs": 4829.730033874512
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 24512,
+                "msecs": 7788.654088973999
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 5439,
+                "msecs": 3999.8443126678467
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 4646,
+                "msecs": 3894.727945327759
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 6531,
+                "msecs": 4886.802196502686
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24425,
+                "msecs": 1546.8573570251465
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 18937,
+                "msecs": 3775.9416103363037
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 16376,
+                "msecs": 3800.841808319092
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 21659,
+                "msecs": 4551.665306091309
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 19239,
+                "msecs": 1445.3513622283936
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 16359,
+                "msecs": 4063.5135173797607
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 10220,
+                "msecs": 4832.082748413086
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 18795,
+                "msecs": 3843.3971405029297
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3728,
+                "msecs": 4215.024948120117
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 21389,
+                "msecs": 4203.265905380249
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17032,
+                "msecs": 4523.816347122192
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7140,
+                "msecs": 5207.028150558472
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 10736,
+                "msecs": 4129.037857055664
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24103,
+                "msecs": 4413.134336471558
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 24904,
+                "msecs": 1601.607084274292
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 1,
+                "msecs": 1602.776288986206
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 717,
+                "msecs": 4312.779664993286
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 20110,
+                "msecs": 4485.3856563568115
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 3597,
+                "msecs": 3899.9550342559814
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 20707,
+                "msecs": 3924.4368076324463
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 16454,
+                "msecs": 3651.40962600708
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 3578,
+                "msecs": 4129.111766815186
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7748,
+                "msecs": 4905.871152877808
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 7257,
+                "msecs": 4061.0923767089844
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15905,
+                "msecs": 4808.618545532227
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 22861,
+                "msecs": 4286.462068557739
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 2714,
+                "msecs": 4470.889329910278
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23089,
+                "msecs": 4041.3734912872314
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 17772,
+                "msecs": 4753.4356117248535
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 3192,
+                "msecs": 3795.3741550445557
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21335,
+                "msecs": 6510.338068008423
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 10178,
+                "msecs": 3800.690174102783
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 19873,
+                "msecs": 4187.112092971802
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 20084,
+                "msecs": 4063.3885860443115
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14306,
+                "msecs": 4975.972652435303
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 20307,
+                "msecs": 3880.4097175598145
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 16284,
+                "msecs": 4037.1220111846924
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 11013,
+                "msecs": 5111.1321449279785
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 13985,
+                "msecs": 4910.161972045898
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 4684,
+                "msecs": 4445.314407348633
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 17109,
+                "msecs": 4657.372236251831
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 6228,
+                "msecs": 4027.538537979126
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 9710,
+                "msecs": 1822.7944374084473
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9020,
+                "msecs": 4191.936492919922
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 413,
+                "msecs": 1268.9528465270996
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23481,
+                "msecs": 4306.912899017334
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 7580,
+                "msecs": 4270.593166351318
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 11634,
+                "msecs": 4533.896446228027
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 15808,
+                "msecs": 4599.423170089722
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12188,
+                "msecs": 5242.041110992432
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 19703,
+                "msecs": 5510.297060012817
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6394,
+                "msecs": 4473.188877105713
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 12276,
+                "msecs": 7070.392847061157
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 1735,
+                "msecs": 3988.934278488159
+              }
+            ],
+            "nthreads": 4,
+            "total_msec": 107017.6293849945,
+            "seed": 30236
+          },
+          "8_threads": {
+            "results": [
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 4873,
+                "msecs": 4699.36990737915
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 23543,
+                "msecs": 6825.288772583008
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 11495,
+                "msecs": 1875.645637512207
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 11928,
+                "msecs": 8651.859283447266
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 16889,
+                "msecs": 5738.075733184814
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 9314,
+                "msecs": 10677.982807159424
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 12839,
+                "msecs": 7385.500907897949
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 8029,
+                "msecs": 7596.736907958984
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 7183,
+                "msecs": 9774.109363555908
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 11484,
+                "msecs": 7239.408016204834
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 12424,
+                "msecs": 8072.248935699463
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 4686,
+                "msecs": 6158.432960510254
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 6955,
+                "msecs": 9666.545867919922
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 19990,
+                "msecs": 1528.022289276123
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 276,
+                "msecs": 1272.0973491668701
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14245,
+                "msecs": 1939.0356540679932
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 17796,
+                "msecs": 10092.429876327515
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 4162,
+                "msecs": 9998.521566390991
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 21371,
+                "msecs": 9431.681394577026
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 16510,
+                "msecs": 9421.13471031189
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 22241,
+                "msecs": 9245.311975479126
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 6516,
+                "msecs": 7404.900074005127
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21020,
+                "msecs": 7735.618591308594
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6489,
+                "msecs": 7532.790422439575
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 10632,
+                "msecs": 9015.181541442871
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 15062,
+                "msecs": 6855.040073394775
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 21052,
+                "msecs": 7753.154754638672
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 19692,
+                "msecs": 6038.470029830933
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22623,
+                "msecs": 9190.793514251709
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18774,
+                "msecs": 7481.4183712005615
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 2710,
+                "msecs": 7078.991413116455
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6301,
+                "msecs": 6705.553293228149
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 22524,
+                "msecs": 9233.992576599121
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 14170,
+                "msecs": 7383.484363555908
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 11151,
+                "msecs": 9090.603590011597
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 7821,
+                "msecs": 10580.972909927368
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 9194,
+                "msecs": 9222.449779510498
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 24591,
+                "msecs": 12754.804849624634
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 16713,
+                "msecs": 7834.04278755188
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 23078,
+                "msecs": 6930.34553527832
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 6217,
+                "msecs": 8017.131328582764
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 12158,
+                "msecs": 9728.354692459106
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 9788,
+                "msecs": 7839.165449142456
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 12945,
+                "msecs": 9432.274580001831
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 22487,
+                "msecs": 9646.995782852173
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15826,
+                "msecs": 6813.731670379639
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 2030,
+                "msecs": 7612.513065338135
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17557,
+                "msecs": 6267.303705215454
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 21672,
+                "msecs": 8491.777896881104
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 10572,
+                "msecs": 5393.59974861145
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 22085,
+                "msecs": 9384.044170379639
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 14790,
+                "msecs": 6781.649827957153
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 23335,
+                "msecs": 2608.9673042297363
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15096,
+                "msecs": 9311.607122421265
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 16329,
+                "msecs": 7473.470449447632
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 24554,
+                "msecs": 2159.141778945923
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 8751,
+                "msecs": 7892.71879196167
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 16717,
+                "msecs": 5216.724634170532
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 19032,
+                "msecs": 6847.290515899658
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 5817,
+                "msecs": 7116.6534423828125
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 3308,
+                "msecs": 9411.917448043823
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 8114,
+                "msecs": 9328.271865844727
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 14436,
+                "msecs": 7624.718904495239
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 12176,
+                "msecs": 6344.223976135254
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 17056,
+                "msecs": 9103.809595108032
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 17440,
+                "msecs": 9241.854190826416
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 1600,
+                "msecs": 7280.172824859619
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 4868,
+                "msecs": 8326.863765716553
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 9891,
+                "msecs": 9574.64575767517
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 13461,
+                "msecs": 7040.267705917358
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 12618,
+                "msecs": 7761.460542678833
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 17928,
+                "msecs": 8936.434507369995
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 17043,
+                "msecs": 5322.723150253296
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 11756,
+                "msecs": 8271.90113067627
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 24711,
+                "msecs": 1440.2306079864502
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 21736,
+                "msecs": 8224.025249481201
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 24198,
+                "msecs": 9089.330196380615
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 2060,
+                "msecs": 2865.9424781799316
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 18394,
+                "msecs": 7981.845855712891
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 21992,
+                "msecs": 7155.9436321258545
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 23223,
+                "msecs": 5872.791767120361
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 22974,
+                "msecs": 6998.116493225098
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 6843,
+                "msecs": 9794.330596923828
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 7312,
+                "msecs": 6602.69021987915
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 15324,
+                "msecs": 2332.981824874878
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T060000Z.mov",
+                "frame": 12882,
+                "msecs": 6717.902421951294
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15728,
+                "msecs": 6962.098836898804
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 20451,
+                "msecs": 5828.843355178833
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 5464,
+                "msecs": 9566.094875335693
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T090000Z.mov",
+                "frame": 15708,
+                "msecs": 6499.760389328003
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 3836,
+                "msecs": 7348.065376281738
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T180000Z.mov",
+                "frame": 18055,
+                "msecs": 6334.708213806152
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 7952,
+                "msecs": 10131.284475326538
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T210000Z.mov",
+                "frame": 22710,
+                "msecs": 8275.011539459229
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 3395,
+                "msecs": 2414.579391479492
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 12723,
+                "msecs": 6671.714782714844
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T000000Z.mov",
+                "frame": 5672,
+                "msecs": 8203.805208206177
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T120000Z.mov",
+                "frame": 21255,
+                "msecs": 7758.420705795288
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T150000Z.mov",
+                "frame": 787,
+                "msecs": 9174.896955490112
+              },
+              {
+                "valid": true,
+                "path": "/RS03ASHS/PN03B/06-CAMHDA301/2016/01/01/CAMHDA301-20160101T030000Z.mov",
+                "frame": 15657,
+                "msecs": 8825.295448303223
+              }
+            ],
+            "nthreads": 8,
+            "total_msec": 95173.08139801025,
+            "seed": 30244
+          }
+        }
+      }
+    }
+  }
+}
