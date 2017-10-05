@@ -56,32 +56,32 @@ def do_get_frame(benchmark, filename, format):
 
 ## Could I generate these programmatically?
 
-def test_lazycache_get_frame_np_overlay(benchmark):
+def test_lazycache_np_overlay(benchmark):
     do_get_frame(benchmark, filename_overlay, "np")
 
-def test_lazycache_get_frame_np_nonoverlay(benchmark):
+def test_lazycache_np_nonoverlay(benchmark):
     do_get_frame(benchmark, filename_nonoverlay, "np")
 
-def test_lazycache_get_frame_PIL_Image_overlay(benchmark):
+def test_lazycache_PIL_Image_overlay(benchmark):
     do_get_frame(benchmark, filename_overlay, "Image")
 
-def test_lazycache_get_frame_PIL_Image_nonoverlay(benchmark):
+def test_lazycache_PIL_Image_nonoverlay(benchmark):
     do_get_frame(benchmark, filename_nonoverlay, "Image")
 
-def test_lazycache_get_frame_bmp_overlay(benchmark):
+def test_lazycache_bmp_overlay(benchmark):
     do_get_frame(benchmark, filename_overlay, "bmp")
 
-def test_lazycache_get_frame_bmp_nonoverlay(benchmark):
+def test_lazycache_bmp_nonoverlay(benchmark):
     do_get_frame(benchmark, filename_nonoverlay, "bmp")
 
-def test_lazycache_get_frame_jpg_overlay(benchmark):
+def test_lazycache_jpg_overlay(benchmark):
     do_get_frame(benchmark, filename_overlay, "jpg")
 
-def test_lazycache_get_frame_jpg_nonoverlay(benchmark):
+def test_lazycache_jpg_nonoverlay(benchmark):
     do_get_frame(benchmark, filename_nonoverlay, "jpg")
 
-def test_lazycache_get_frame_png_overlay(benchmark):
+def test_lazycache_png_overlay(benchmark):
     do_get_frame(benchmark, filename_overlay, "png")
 
-def test_lazycache_get_frame_png_nonoverlay(benchmark):
+def test_lazycache_png_nonoverlay(benchmark):
     do_get_frame(benchmark, filename_nonoverlay, "png")
